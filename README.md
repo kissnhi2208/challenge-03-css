@@ -1,5 +1,7 @@
 # C03 - CSS
 
+[Yêu cầu](https://kminacademy.notion.site/C03-CSS-1e7fa98d529b4f4c82e09fd9719fb4d6)
+
 ## Mục tiêu
 
 - Vận dụng tốt cú pháp của CSS.
