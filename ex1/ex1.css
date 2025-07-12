@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/ex14-logo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+}
+
+h1, h2, p {
+    width: 60%;
+    text-align: center;
+}
+
+h1 {
+    color: tomato;
+}
+
+h2 {
+    color: dodgerblue;
+}
+
+p {
+    text-align: justify;
+}
